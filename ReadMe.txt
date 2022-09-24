@@ -1,5 +1,5 @@
 Mask Detection trained model 
-By: Ahmad Aladdin Mokhtar Tuhami
+By: Ahmad Aladdin Mokhtar Tohamy
 E-mail: tuhami.10.8@gmail.com
 
 Built with OpenCV, TensorFlow Keras API & vgg16 pretrained model
